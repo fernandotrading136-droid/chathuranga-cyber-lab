@@ -1,0 +1,6 @@
+{
+  "name": "Chathuranga Cyber Lab",
+  "description": "Learn Cyber Security in Sinhala and English from zero with interactive terminal tools, a 5-question Sinhala quiz, downloadable study notes, and a beginner Cyber Words dictionary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
